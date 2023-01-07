@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MediaPlayer</string>
+    <string name="dialog_text">Cuenta Verificada</string>
+    <string name="button_check">Check</string>
 </resources>
